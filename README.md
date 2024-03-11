@@ -1,3 +1,3 @@
 # python-mini-projects
 
-file for Codecademy Computer Science Certificate
+code repo for Codecademy computer science certification projects
